@@ -17,7 +17,7 @@ This is an interactive Streamlit web app to **visualize and compare numerical me
 - Displays numerical values for easy comparison
 
 ## IVP/BVP Solver
-- Solves \( \frac{d^2u}{dy^2} = -P \) using:
+- Solves ( {d^2u}/{dy^2} = -P ) using:
   - **Explicit Euler Method**
   - **Implicit Euler Method**
   - **Finite Difference Method**
